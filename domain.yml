@@ -1,0 +1,22 @@
+version: '3.1'
+intents:
+  - greet
+  - inform_name
+  - inform
+
+entities:
+  - person
+  - account_number
+
+responses:
+  utter_greet:
+    - text: Hello there, can i help you? What's your name?
+  utter_goodbye:
+    - text: Goodbye, see you late, nice to talk with you.
+
+
+config:
+  store_entities_as_slots: true
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

@@ -1,0 +1,14 @@
+[93m/home/stackops/rasa_venv/lib/python3.8/site-packages/rasa/shared/utils/io.py:97: UserWarning: The path './credent$' does not seem to exist. Using the default value 'credentials.yml' instead.
+[0m[91mYamlSyntaxException: Failed to read YAML. mapping values are not allowed here
+  in "<unicode string>", line 6, column 40:
+     ... s.custom_rest_channel.CustomRest:
+                                         ^ (line: 6)
+
+You can use https://yamlchecker.com/ to validate the YAML syntax of your file.[0m
+[93m/home/stackops/rasa_venv/lib/python3.8/site-packages/rasa/shared/utils/io.py:97: UserWarning: The path './credent$' does not seem to exist. Using the default value 'credentials.yml' instead.
+[0m[91mYamlSyntaxException: Failed to read YAML. mapping values are not allowed here
+  in "<unicode string>", line 6, column 40:
+     ... s.custom_rest_channel.CustomRest:
+                                         ^ (line: 6)
+
+You can use https://yamlchecker.com/ to validate the YAML syntax of your file.[0m
