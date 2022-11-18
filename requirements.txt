@@ -1,0 +1,6 @@
+motor
+rasa
+keycloak
+keycloak-client
+stt
+TTS
